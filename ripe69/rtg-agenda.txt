@@ -1,0 +1,14 @@
+A.	Administrivia						[00:05]
+	Thanks to the scribes and stenographers
+	Approval of minutes from RIPE 68
+	Charter
+	WG Chair reselection
+B.	ExaBGP							[00:20]
+	Thomas Mangin
+C.	Quantitative analysis of BGP route leaks		[00:20]
+	Benjamin Wijchers
+D.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
+	Martin Winters
+E.	When the RPKI Meets Real Routing Announcements		[00:20]
+	Randy Bush
+Z.	AOB							[00:05]
