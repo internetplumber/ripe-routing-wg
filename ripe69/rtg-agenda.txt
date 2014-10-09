@@ -9,6 +9,6 @@ C.	Quantitative analysis of BGP route leaks		[00:20]
 	Benjamin Wijchers
 D.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
 	Martin Winters
-E.	When the RPKI Meets Real Routing Announcements		[00:20]
-	Randy Bush
+E.	A study of BGP Route Origin Registration and Validation	[00:20]
+	Daniele Iamartino
 Z.	AOB							[00:05]
