@@ -8,7 +8,7 @@ B.	ExaBGP							[00:20]
 C.	Quantitative analysis of BGP route leaks		[00:20]
 	Benjamin Wijchers
 D.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
-	Martin Winters
+	Martin Winter
 E.	A study of BGP Route Origin Registration and Validation	[00:20]
 	Daniele Iamartino
 Z.	AOB							[00:05]
