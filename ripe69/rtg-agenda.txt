@@ -1,14 +1,32 @@
+Routing WG Agenda.  RIPE 69, London.
+Thursday, 6th November 2014.
+
+Session 1: 14:00-15:30 GMT.  Side Room.
+Parallel with Co-operation WG in the Main Room.
+
 A.	Administrivia						[00:05]
 	Thanks to the scribes and stenographers
 	Approval of minutes from RIPE 68
-	Charter
-	WG Chair reselection
-B.	ExaBGP							[00:20]
-	Thomas Mangin
+	Agenda bashing
+B.	/48 Considered Harmful? On the Interaction of Strict IPv6 Prefix
+	Filtering and the Needs of Enterprise LIRs		[00:20]
+	Enno Rey
 C.	Quantitative analysis of BGP route leaks		[00:20]
 	Benjamin Wijchers
-D.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
-	Martin Winter
-E.	A study of BGP Route Origin Registration and Validation	[00:20]
+D.	A study of BGP Route Origin Registration and Validation	[00:20]
 	Daniele Iamartino
-Z.	AOB							[00:05]
+E.	TBC							[00:20]
+
+
+Session 2: 16:00-17:30 GMT.  Side Room.
+Parallel with Database WG in the Main Room.
+
+F.	Charter & WG Chair reselection				[00:15]
+	Joao Damas & Rob Evans
+G.	ExaBGP							[00:20]
+	Thomas Mangin
+H.	LISPmob: An open source implementation of LISP		[00:15]
+	Alberto Rodriguez-Natal
+I.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
+	Martin Winter
+Z.	AOB							[00:20]
