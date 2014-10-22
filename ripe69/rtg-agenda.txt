@@ -15,18 +15,17 @@ C.	Quantitative analysis of BGP route leaks		[00:20]
 	Benjamin Wijchers
 D.	A study of BGP Route Origin Registration and Validation	[00:20]
 	Daniele Iamartino
-E.	TBC							[00:20]
+E.	Charter & WG Chair reselection				[00:20]
+	Joao Damas & Rob Evans
 
 
 Session 2: 16:00-17:30 GMT.  Side Room.
 Parallel with Database WG in the Main Room.
 
-F.	Charter & WG Chair reselection				[00:15]
-	Joao Damas & Rob Evans
-G.	ExaBGP							[00:20]
+F.	ExaBGP							[00:20]
 	Thomas Mangin
-H.	LISPmob: An open source implementation of LISP		[00:15]
+G.	LISPmob: An open source implementation of LISP		[00:20]
 	Alberto Rodriguez-Natal
-I.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
+H.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
 	Martin Winter
 Z.	AOB							[00:20]
