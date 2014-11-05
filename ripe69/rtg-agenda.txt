@@ -12,7 +12,7 @@ B.	/48 Considered Harmful? On the Interaction of Strict IPv6 Prefix
 	Filtering and the Needs of Enterprise LIRs		[00:20]
 	Enno Rey
 C.	Quantitative analysis of BGP route leaks		[00:20]
-	Benjamin Wijchers
+	Benjamin Wijchers & Benno Overeinder
 D.	A study of BGP Route Origin Registration and Validation	[00:20]
 	Daniele Iamartino
 E.	Charter & WG Chair reselection				[00:20]
