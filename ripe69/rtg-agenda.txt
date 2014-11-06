@@ -29,3 +29,5 @@ G.	LISPmob: An open source implementation of LISP		[00:20]
 H.	Feedback required: IPv6 Homenet with IS-IS standard	[00:20]
 	Martin Winter
 Z.	AOB							[00:20]
+	-	Routing topics in BCOPs
+	-	Non-local route objects in the RIPE IRR
