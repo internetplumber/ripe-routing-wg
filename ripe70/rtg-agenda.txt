@@ -1,0 +1,21 @@
+Routing WG Agenda.  RIPE 70, Amsterdam.
+Thursday, 14th May 2015.
+
+14:00-15:30 CEST.  Side Room.
+Parallel with Co-operation WG in the Main Room.
+
+A.	Administrivia							[00:05]
+	Thanks to the scribes and stenographers
+	Approval of minutes from RIPE 69
+	Agenda bashing
+	Selection of WG co-chair
+B.	The Role of Analytics in Routing, Network Performance and SDN	[00:30]
+	Cengiz Alaettinoglu
+C.	bgpdump2: A Tool for Full BGP Route Comparison			[00:20]
+	Yasuhiro Ohara
+D.	Latency IPv4 vs IPv6: Understanding the difference		[00:20]
+	Alexander Azimov
+E.	Redeveloping the RIPE RIS Route Collector Infrastructure	[00:15]
+	Colin Petrie
+Z.	AOB
+	-	Feedback from cross-registry authentication BoF
