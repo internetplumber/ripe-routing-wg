@@ -15,7 +15,7 @@ C.	bgpdump2: A Tool for Full BGP Route Comparison			[00:20]
 	Yasuhiro Ohara
 D.	Latency IPv4 vs IPv6: Understanding the difference		[00:20]
 	Alexander Azimov
-E.	Redeveloping the RIPE RIS Route Collector Infrastructure	[00:15]
+E.	RIPE NCC updates on Routing Information Service (RIS)		[00:15]
 	Colin Petrie
 Z.	AOB
 	-	Feedback from cross-registry authentication BoF
